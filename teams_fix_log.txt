@@ -1,0 +1,54 @@
+2026-11-10 23:18:40  === Run started. Level = 1 ===
+2026-11-10 23:18:40  Found 2 ms-teams process(es). Closing...
+2026-11-10 23:18:48  Teams is fully closed.
+2026-11-10 23:18:48  Reopening Teams...
+2026-11-10 23:18:59  Teams is running again.
+2026-11-10 23:18:59  === Run finished ===
+2026-11-10 23:33:47  === Run started. Level = 1 ===
+2026-11-10 23:33:47  Found 2 ms-teams process(es). Closing...
+2026-11-10 23:33:55  Teams is fully closed.
+2026-11-10 23:33:55  Reopening Teams...
+2026-11-10 23:34:05  Teams is running again.
+2026-11-10 23:34:05  === Run finished ===
+2026-11-10 23:38:54  === Run started. Level = 1 ===
+2026-11-10 23:38:54  Found 2 ms-teams process(es). Closing...
+2026-11-10 23:39:03  Teams is fully closed.
+2026-11-10 23:39:03  Reopening Teams...
+2026-11-10 23:39:13  Teams is running again.
+2026-11-10 23:39:13  === Run finished ===
+2026-11-10 23:41:05  === Run started. Level = 2 ===
+2026-11-10 23:41:05  Found 2 ms-teams process(es). Closing...
+2026-11-10 23:41:13  Teams is fully closed.
+2026-11-10 23:41:13  Moving cache to backup: C:\Users\rphor\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams_backup_20261110_234113
+2026-11-10 23:41:13  Cache moved. Teams will rebuild it on next launch. Backup can be deleted once Teams works.
+2026-11-10 23:41:13  Reopening Teams...
+2026-11-10 23:41:23  Teams is running again.
+2026-11-10 23:41:23  === Run finished ===
+2026-11-10 23:48:46  === Run started. Level = 1 ===
+2026-11-10 23:48:46  Found 2 ms-teams process(es). Closing...
+2026-11-10 23:48:54  Teams is fully closed.
+2026-11-10 23:48:54  Reopening Teams...
+2026-11-10 23:49:04  Teams is running again.
+2026-11-10 23:49:04  === Run finished ===
+2026-11-10 23:50:58  === Run started. Level = 2 ===
+2026-11-10 23:50:59  Found 2 ms-teams process(es). Closing...
+2026-11-10 23:51:07  Teams is fully closed.
+2026-11-10 23:51:07  Moving cache to backup: C:\Users\rphor\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams_backup_20261110_235107
+2026-11-10 23:51:07  Cache moved. Teams will rebuild it on next launch. Backup can be deleted once Teams works.
+2026-11-10 23:51:07  Reopening Teams...
+2026-11-10 23:51:17  Teams is running again.
+2026-11-10 23:51:17  === Run finished ===
+2026-11-10 23:55:01  === Run started. Level = 1 ===
+2026-11-10 23:55:01  Found 2 ms-teams process(es). Closing...
+2026-11-10 23:55:09  Teams is fully closed.
+2026-11-10 23:55:09  Reopening Teams...
+2026-11-10 23:55:19  Teams is running again.
+2026-11-10 23:55:19  === Run finished ===
+2026-11-10 23:57:03  === Run started. Level = 2 ===
+2026-11-10 23:57:03  Found 2 ms-teams process(es). Closing...
+2026-11-10 23:57:11  Teams is fully closed.
+2026-11-10 23:57:11  Moving cache to backup: C:\Users\rphor\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams_backup_20261110_235711
+2026-11-10 23:57:11  Cache moved. Teams will rebuild it on next launch. Backup can be deleted once Teams works.
+2026-11-10 23:57:11  Reopening Teams...
+2026-11-10 23:57:21  Teams is running again.
+2026-11-10 23:57:21  === Run finished ===
